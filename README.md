@@ -5,7 +5,7 @@
 
 I m Emmanuel Gigena
 
--   :hammer_and_pick: Python/ Django/  Flask/ C#/ SQL/ 
+-   :hammer_and_pick: Python/ Django/  Flask/ C#/ SQL/ Markdown
    
 -   :seedling: Studying Data Science at FAMAF  & Taking courses 
 -   :man_scientist: [INFJ-A] personality
