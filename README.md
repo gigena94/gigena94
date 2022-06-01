@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey, emma here! :wave:
 
-<!--
-**gigena94/gigena94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-Here are some ideas to get you started:
+I m Emmanuel Gigena
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   :hammer_and_pick: Python/ Django/  Flask/ C#/ SQL/ 
+   
+-   :seedling: Studying Data Science at FAMAF  & Taking courses 
+-   :man_scientist: [INFJ-A] personality
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/gigena94/gigena94/discussions/new)!
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
